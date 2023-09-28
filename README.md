@@ -11,6 +11,7 @@ Made by Cas van Vliet: https://casvanvliet.com
 # Example
 
 **Academic Source Finder**
+
 [topic]: "your_topic", [task]: "Find peer-reviewed sources for my research on [topic]".
 
 > [topic]: "Prompt Engineering", [task]: "Find peer-reviewed sources for my research on [topic]".
