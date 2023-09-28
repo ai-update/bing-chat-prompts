@@ -1,4 +1,4 @@
-# bing-chat-prompts
+# Bing Chat Prompts
 
 A collection of prompts for Bing Chat.
 
