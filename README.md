@@ -12,6 +12,6 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 **Academic Source Finder**
 
-[topic]: "your_topic", [task]: "Find peer-reviewed sources for my research on [topic]".
+[topic]: "*your_topic_here*", [task]: "Find peer-reviewed sources for my research on [topic]".
 
 > [topic]: "Prompt Engineering", [task]: "Find peer-reviewed sources for my research on [topic]".
