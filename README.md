@@ -1,4 +1,4 @@
-# Prompts for Bing Chat
+# Prompts: Bing Chat
 
 A collection of prompts for Bing Chat.
 
@@ -8,7 +8,7 @@ These templates are designed to streamline the process of generating high-qualit
 
 Made by Cas van Vliet: https://casvanvliet.com
 
-# Examples
+# List of Prompts
 
 **1. Academic Source Finder**
 
