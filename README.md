@@ -8,9 +8,9 @@ These templates are designed to streamline the process of generating high-qualit
 
 Made by Cas van Vliet: https://casvanvliet.com
 
-# Example
+# Examples
 
-**Academic Source Finder**
+**1. Academic Source Finder**
 
 [topic]: "*your_topic_here*", [task]: "Find peer-reviewed sources for my research on [topic]".
 
