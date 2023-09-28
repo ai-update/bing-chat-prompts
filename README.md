@@ -7,3 +7,9 @@ The primary purpose of this project is to offer a diverse range of prompt (templ
 These templates are designed to streamline the process of generating high-quality responses from ChatGPT; making it easier for developers, researchers, and enthusiasts to harness the full potential of the A.I. model.
 
 Made by Cas van Vliet: https://casvanvliet.com
+
+# Example
+
+Academic Source Finder: [topic]: "your_topic", [task]: "Find peer-reviewed sources for my research on [topic]".
+
+Academic Source Finder: [topic]: "Prompt Engineering", [task]: "Find peer-reviewed sources for my research on [topic]".
