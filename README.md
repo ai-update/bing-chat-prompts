@@ -14,11 +14,15 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 # General
 
-[topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
+**Hyperlink Finder**
+
+[topic]: "your_topic", [task]: "Find hyperlinks relevant to [topic]", [requirements]: "The hyperlinks must be relevant and diverse; different viewpoints and opinions".
 
 # Corporate
 
-[topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
+**Market Research**
+
+[topic]: "your_topic", [task]: "Provide a market-research report on [topic]", [requirements]: "The market-research report should be accurate, and factual, and detailed, and informative".
 
 # Research
 
