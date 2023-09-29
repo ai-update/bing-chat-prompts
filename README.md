@@ -8,10 +8,8 @@ These templates are designed to streamline the process of generating high-qualit
 
 Made by Cas van Vliet: https://casvanvliet.com
 
-# List of Prompts
+# Prompts for Research
 
-**1. Academic Source Finder**
+**Academic Source Finder**
 
-[topic]: "*your_topic_here*", [task]: "Find peer-reviewed sources for my research on [topic]".
-
-> [topic]: "Prompt Engineering", [task]: "Find peer-reviewed sources for my research on [topic]".
+[topic]: "your_topic", [task]: "Find peer-reviewed sources for my research on [topic]".
