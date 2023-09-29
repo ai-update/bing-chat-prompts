@@ -12,7 +12,11 @@ Made by Cas van Vliet: https://casvanvliet.com
 
 > [topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
 
-# Daily Activities
+# General
+
+[topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
+
+# Corporate
 
 [topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
 
