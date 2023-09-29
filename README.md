@@ -8,7 +8,15 @@ These templates are designed to streamline the process of generating high-qualit
 
 Made by Cas van Vliet: https://casvanvliet.com
 
-# Prompts for Research
+# DIY Template
+
+> [topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
+
+# Daily Activities
+
+[topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
+
+# Research
 
 **Academic Source Finder**
 
