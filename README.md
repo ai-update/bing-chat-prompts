@@ -16,7 +16,7 @@ https://casvanvliet.substack.com
 
 **Hyperlink Finder**
 
-[topic]: "your_topic", [task]: "Find hyperlinks relevant to [topic]", [requirements]: "The hyperlinks must be relevant and diverse; different viewpoints and opinions".
+[topic]: "your_topic", [task]: "Find hyperlinks relevant to [topic]", [requirements]: "The content of the hyperlink-targets must be relevant and diverse; exploring different viewpoints and opinions".
 
 # Corporate
 
@@ -28,4 +28,4 @@ https://casvanvliet.substack.com
 
 **Academic Source Finder**
 
-[topic]: "your_topic", [task]: "Find peer-reviewed sources for my research on [topic]".
+[topic]: "your_topic", [task]: "Find peer-reviewed sources for my research on [topic]" [requirements]: "The peer-reviewed sources should be relevant to [topic], and factual, and detailed, and informative.
