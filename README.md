@@ -6,7 +6,7 @@ The primary purpose of this project is to offer a diverse range of prompt (templ
 
 These templates are designed to streamline the process of generating high-quality responses from ChatGPT; making it easier for developers, researchers, and enthusiasts to harness the full potential of the A.I. model.
 
-Made by Cas van Vliet: https://casvanvliet.com
+https://casvanvliet.substack.com
 
 # DIY Template
 
