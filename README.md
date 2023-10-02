@@ -10,11 +10,11 @@ These templates are designed to automate the process of generating high-quality 
 
 🌐 https://casvanvliet.substack.com
 
-## DIY Template
+# DIY Template
 
 > [topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
 
-# 👩🏻‍💻 General
+## 👩🏻‍💻 General
 
 🔍 **Hyperlink Searcher**
 
