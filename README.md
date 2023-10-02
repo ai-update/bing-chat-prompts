@@ -10,7 +10,7 @@ These templates are designed to automate the process of generating high-quality 
 
 🌐 https://casvanvliet.substack.com
 
-# DIY Template
+## DIY Template
 
 > [topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
 
@@ -18,16 +18,16 @@ These templates are designed to automate the process of generating high-quality 
 
 🔍 **Hyperlink Searcher**
 
-[topic]: "your_topic", [task]: "Find hyperlinks relevant to [topic]", [requirements]: "The content of the hyperlink-targets must be relevant and diverse; exploring different viewpoints and opinions".
+> [topic]: "your_topic", [task]: "Find hyperlinks relevant to [topic]", [requirements]: "The content of the hyperlink-targets must be relevant and diverse; exploring different viewpoints and opinions".
 
-# 👔 Corporate 
+## 👔 Corporate 
 
 🔍 **Market Research** 
 
-[topic]: "your_topic", [task]: "Provide a market-research report on [topic]", [requirements]: "The market-research report should be accurate, and factual, and detailed, and informative".
+> [topic]: "your_topic", [task]: "Provide a market-research report on [topic]", [requirements]: "The market-research report should be accurate, and factual, and detailed, and informative".
 
-# 🔍 Research 
+## 🔍 Research 
 
 📖 **Academic Source Searcher**
 
-[topic]: "your_topic", [task]: "Find peer-reviewed sources for my research on [topic]" [requirements]: "The peer-reviewed sources should be relevant to [topic], and factual, and detailed, and informative.
+> [topic]: "your_topic", [task]: "Find peer-reviewed sources for my research on [topic]" [requirements]: "The peer-reviewed sources should be relevant to [topic], and factual, and detailed, and informative.
