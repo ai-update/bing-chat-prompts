@@ -1,6 +1,8 @@
 # Bing Chat Prompts
 
-A collection of prompts for Bing Chat: https://bing.com/chat
+A collection of prompts for Bing Chat: 
+
+https://bing.com/chat
 
 The primary purpose of this project is to offer a diverse range of prompt (templates) that can be used to interact with Bing Chat effectively.
 
