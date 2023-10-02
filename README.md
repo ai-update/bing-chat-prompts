@@ -12,19 +12,19 @@ https://casvanvliet.substack.com
 
 > [topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
 
-# General
+# General 👩🏻‍💻
 
 **Hyperlink Finder**
 
 [topic]: "your_topic", [task]: "Find hyperlinks relevant to [topic]", [requirements]: "The content of the hyperlink-targets must be relevant and diverse; exploring different viewpoints and opinions".
 
-# Corporate
+# Corporate 👔
 
-**Market Research**
+**Market Research** 🔍
 
 [topic]: "your_topic", [task]: "Provide a market-research report on [topic]", [requirements]: "The market-research report should be accurate, and factual, and detailed, and informative".
 
-# Research
+# Research 🔍
 
 **Academic Source Finder**
 
