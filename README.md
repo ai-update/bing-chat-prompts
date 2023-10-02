@@ -1,6 +1,6 @@
 # Bing Chat Prompts
 
-A collection of prompts for Bing Chat: 
+🤖 A collection of prompts for Bing Chat: 
 
 🌐 https://bing.com/chat
 
