@@ -14,7 +14,7 @@ https://casvanvliet.substack.com
 
 # 👩🏻‍💻 General
 
-🔍 **Hyperlink Finder**
+🔍 **Hyperlink Searcher**
 
 [topic]: "your_topic", [task]: "Find hyperlinks relevant to [topic]", [requirements]: "The content of the hyperlink-targets must be relevant and diverse; exploring different viewpoints and opinions".
 
@@ -26,6 +26,6 @@ https://casvanvliet.substack.com
 
 # 🔍 Research 
 
-**Academic Source Finder**
+📖 **Academic Source Searcher**
 
 [topic]: "your_topic", [task]: "Find peer-reviewed sources for my research on [topic]" [requirements]: "The peer-reviewed sources should be relevant to [topic], and factual, and detailed, and informative.
