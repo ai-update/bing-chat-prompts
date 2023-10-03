@@ -4,7 +4,7 @@
 
 🌐 https://bing.com/chat
 
-These templates are designed to automate the process of generating high-quality responses from Bing Chat; making it easier to harness the full potential of the A.I. model.
+All prompts are made by:
 
 🌐 https://casvanvliet.substack.com
 
