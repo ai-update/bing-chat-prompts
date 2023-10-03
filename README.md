@@ -8,10 +8,11 @@ All prompts are made by:
 
 🌐 https://casvanvliet.substack.com
 
-# DIY Template
+## DIY Template
 
 > [topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
 
+# Prompts:
 ## 👩🏻‍💻 General
 
 🔍 **Hyperlink Searcher**
