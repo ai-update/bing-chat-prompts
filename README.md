@@ -4,11 +4,11 @@
 
 🌐 https://bing.com/chat
 
-All prompts are made by:
+Prompts by:
 
 🌐 https://casvanvliet.substack.com
 
-## Table of Content
+## Table of Contents
 
 - DIY Template
 - 👩🏻‍💻 General
