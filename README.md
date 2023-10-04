@@ -8,6 +8,18 @@ All prompts are made by:
 
 🌐 https://casvanvliet.substack.com
 
+## Table of Content
+
+- DIY Template
+- 👩🏻‍💻 General
+- 👔 Corporate
+- 🔎 Research
+- 🖳 Programming
+- 🗣️ Languages
+- 📱 Social Media
+- ✍️ Writing
+- 👙 Vacation
+
 ## DIY Template
 
 > [topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
