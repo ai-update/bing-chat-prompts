@@ -11,14 +11,45 @@ Prompts by:
 ## Table of Contents
 
 - DIY Template
-- 👩🏻‍💻 General
-- 👔 Corporate
-- 🔎 Research
-- 🖳 Programming
-- 🗣️ Languages
-- 📱 Social Media
-- ✍️ Writing
-- 👙 Vacation
+🏋️‍♂️ Fitness
+🎬 Entertainment
+🍔 Food & Cooking
+📚 Literature
+🌍 Travel
+💼 Career
+🌱 Gardening
+🎨 Art & Creativity
+🏠 Home Improvement
+🐾 Pets
+🚗 Automotive
+🌊 Environmental Conservation
+🧘‍♀️ Mindfulness and Well-being
+📸 Photography
+💡 Technology
+🎶 Music
+🏞️ Outdoor Activities
+🧩 Puzzles and Games
+🏫 Education
+🏥 Health and Wellness
+📈 Finance
+✈️ Travel
+🧘‍♂️ Fitness
+📦 Shopping
+🌐 Internet
+📰 News and Updates
+📅 Events and Activities
+🌍 Travel
+🎬 Entertainment
+🛒 Shopping
+📚 Research
+🏠 Real Estate
+🚆 Transportation
+💡 Technology
+🎶 Music
+🍽️ Food and Dining
+💼 Business
+🚗 Automotive
+💻 Education
 
 ## DIY Template
 
