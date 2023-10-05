@@ -22,7 +22,7 @@ Prompts by:
 
 ## DIY Template
 
-> [topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
+    [topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
 
 # Prompts:
 ## 👩🏻‍💻 General
