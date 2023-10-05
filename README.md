@@ -50,6 +50,7 @@ Prompts by:
 ## 👩🏻‍💻 General
 
 **Hyperlink Searcher**
+
     [topic]: "your_topic", [task]: "Find hyperlinks relevant to [topic]", [requirements]: "The content of the hyperlink-targets must be relevant and diverse; exploring different viewpoints and opinions".
 
 ## 👔 Corporate 
