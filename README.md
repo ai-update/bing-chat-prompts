@@ -159,11 +159,11 @@ Prompts by:
 
 ## 📚 Literature
 
-    **Book Suggestions**
+**Book Suggestions**
 
     [reading_preference]: "your_reading_preference", [task]: "Suggest a list of books that match my [reading_preference]", [requirements]: "Ensure a diverse selection of genres and authors."
 
-    **Latest Research Papers**
+**Latest Research Papers**
 
     [topic]: "your_topic", [task]: "Find and summarize the most recent research papers on [topic]", [requirements]: "Include key findings and publication dates."
 
@@ -203,7 +203,7 @@ Prompts by:
 
 **Visa Information**
 
-[destination]: "your_destination", [task]: "Give me visa requirements and application steps for visiting [destination]", [requirements]: "Include processing times and fees."
+    [destination]: "your_destination", [task]: "Give me visa requirements and application steps for visiting [destination]", [requirements]: "Include processing times and fees."
 
 ## 🚆 Transportation
 
