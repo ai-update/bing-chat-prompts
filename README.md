@@ -4,7 +4,7 @@ A collection of prompts for Bing Chat:
 
 🌐 https://bing.com/chat
 
-Prompts by:
+Prompts by: 
 
 🌐 https://casvanvliet.substack.com
 
