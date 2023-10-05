@@ -85,7 +85,7 @@ Prompts by:
 
     [profession]: "your_profession", [task]: "Help me create a professional resume for a [profession]", [requirements]: "Include relevant skills, work experience, and a compelling summary."
 
-📈 Finance
+## 📈 Finance
 
 **Budget Planner**
 
