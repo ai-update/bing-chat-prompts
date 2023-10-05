@@ -87,7 +87,7 @@ Prompts by:
 
 ## 🎬 Entertainment
 
-**MMovie Recommendations**
+**Movie Recommendations**
 
     [genre]: "your_preferred_genre", [task]: "Recommend three movies in the [genre] genre", [requirements]: "Ensure the movies are highly rated and offer a brief synopsis for each."
 
@@ -115,7 +115,7 @@ Prompts by:
 
     [profession]: "your_profession", [task]: "Help me create a professional resume for a [profession]", [requirements]: "Include relevant skills, work experience, and a compelling summary."
 
-    🌱 Gardening
+## 🌱 Gardening
 
 **Plant Care Advisor**
 
