@@ -36,11 +36,9 @@ Prompts by:
 - 🐾 Pets
 - 📸 Photography
 - 🧩 Puzzles and Games
-- 💻 Education
 - 🏫 Education
 - 🌊 Environmental Conservation
 - ✈️ Travel
-- 🌍 Travel
 - 🚆 Transportation
 - 💡 Technology
 
