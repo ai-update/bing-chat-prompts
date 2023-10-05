@@ -1,6 +1,6 @@
-# Bing Chat Prompts
+# 🤖 Bing Chat Prompts
 
-🤖 A collection of prompts for Bing Chat: 
+A collection of prompts for Bing Chat: 
 
 🌐 https://bing.com/chat
 
@@ -63,162 +63,162 @@ Language Translator
 
 ## 📱 Social Media
 
-Content Scheduler
+**MContent Scheduler**M
 
     [social_media_platform]: "your_platform", [task]: "Schedule social media posts for [topic] on [social_media_platform]", [requirements]: "Create engaging content, use relevant hashtags, and schedule posts at optimal times for maximum reach."
 
 ## ✍️ Writing
 
-Creative Writer
+**MCreative Writer**M
 
     [topic]: "your_topic", [task]: "Write a creative and engaging article/story on [topic]", [requirements]: "The content should be original, captivating, and well-structured, with a minimum word count of [word_count]."
 
 ## 👙 Vacation
 
-Travel Planner
+**MTravel Planner**M
 
     [destination]: "your_destination", [task]: "Plan a perfect vacation to [destination]", [requirements]: "Create an itinerary with activities, accommodations, and estimated costs, tailored to the traveler's preferences and budget."
 
 ## 🏋️‍♂️ Fitness
 
-Workout Routine Creator
+**MWorkout Routine Creator**M
 
     [goal]: "your_fitness_goal", [task]: "Design a personalized workout routine to achieve [goal]", [requirements]: "Include exercises, sets, reps, and rest intervals suitable for the individual's fitness level and equipment availability."
 
 ## 🎬 Entertainment
 
-Movie Recommendation
+**MMovie Recommendations**
 
     [genre]: "your_preferred_genre", [task]: "Recommend three movies in the [genre] genre", [requirements]: "Ensure the movies are highly rated and offer a brief synopsis for each."
 
 ## 🍔 Food & Cooking
 
-Recipe Finder
+**MRecipe Finder**M
 
     [cuisine]: "your_preferred_cuisine", [task]: "Find a delicious recipe for a [cuisine] dish", [requirements]: "Include ingredients, step-by-step instructions, and cooking tips."
 
 ## 📚 Literature
 
-Book Suggestions
+**MBook Suggestions**M
 
     [reading_preference]: "your_reading_preference", [task]: "Suggest a list of books that match my [reading_preference]", [requirements]: "Ensure a diverse selection of genres and authors."
 
 ## 🌍 Travel
 
-Local Expert
+**MLocal Expert**M
 
     [city]: "your_destination_city", [task]: "Provide insider tips and recommendations for exploring [city]", [requirements]: "Include hidden gems, local cuisine, and off-the-beaten-path attractions."
 
 ## 💼 Career
 
-Resume Builder
+**MResume Builder**M
 
     [profession]: "your_profession", [task]: "Help me create a professional resume for a [profession]", [requirements]: "Include relevant skills, work experience, and a compelling summary."
 
     🌱 Gardening
 
-Plant Care Advisor
+**MPlant Care Advisor**M
 
     [plant_type]: "your_plant_type", [task]: "Provide care instructions for [plant_type]", [requirements]: "Include watering schedule, sunlight needs, and common issues."
 
 ## 🎨 Art & Creativity
 
-Art Project Ideas
+**MArt Project Ideas**M
 
     [medium]: "your_preferred_medium", [task]: "Suggest creative art projects using [medium]", [requirements]: "Include step-by-step instructions and required materials."
 
 ## 🏠 Home Improvement
 
-DIY Home Renovation Tips
+**MDIY Home Renovation Tips**M
 
     [room]: "your_target_room", [task]: "Offer tips for renovating the [room]", [requirements]: "Include budget-friendly ideas and safety precautions."
 
-🐾 Pets
+## 🐾 Pets
 
-Pet Training Advice
+**MPet Training Advice**M
 
     [pet_type]: "your_pet_type", [task]: "Give training tips for [pet_type]", [requirements]: "Include positive reinforcement techniques and troubleshooting tips."
 
-🚗 Automotive
+## 🚗 Automotive
 
-Car Maintenance Guide
+**MCar Maintenance Guide**M
 
     [car_brand]: "your_car_brand", [task]: "Provide a car maintenance guide for [car_brand]", [requirements]: "Include routine checks and DIY maintenance tips."
 
-🌊 Environmental Conservation
+## 🌊 Environmental Conservation
 
-Sustainable Living Tips
+**MSustainable Living Tips**M
 
     [topic]: "your_sustainability_topic", [task]: "Share tips for sustainable living in [topic]", [requirements]: "Include eco-friendly practices and product recommendations."
 
-🧘‍♀️ Mindfulness and Well-being
+## 🧘‍♀️ Mindfulness and Well-being
 
-Meditation Session
+**MMeditation Session**M
 
     [focus]: "your_focus (e.g., relaxation, stress relief)", [task]: "Guide me through a [focus] meditation session", [requirements]: "Provide a calming and effective meditation script."
 
-📸 Photography
+## 📸 Photography
 
-Photography Tips
+**MPhotography Tips**M
 
     [skill_level]: "your_skill_level (e.g., beginner, intermediate)", [task]: "Offer photography tips for [skill_level] photographers", [requirements]: "Include composition techniques and camera settings advice."
 
-💡 Technology
+## 💡 Technology
 
-Gadget Recommendations
+**MGadget Recommendations**M
 
     [category]: "your_gadget_category (e.g., smartphones, laptops)", [task]: "Recommend top [category] under $500", [requirements]: "Include specs and reasons for each recommendation."
 
-🎶 Music
+## 🎶 Music
 
-Song Lyrics Finder
+**MSong Lyrics Finder**M
 
     [song_title]: "your_song_title", [task]: "Find lyrics for the song '[song_title]'", [requirements]: "Ensure accurate and complete lyrics."
 
-🏞️ Outdoor Activities
+## 🏞️ Outdoor Activities
 
-Hiking Trail Suggestions
+**MHiking Trail Suggestions**M
 
     [region]: "your_region (e.g., mountains, coastal)", [task]: "Suggest scenic hiking trails in [region]", [requirements]: "Include trail difficulty, length, and highlights."
 
-🧩 Puzzles and Games
+## 🧩 Puzzles and Games
 
-Sudoku Generator
+**MSudoku Generator**M
 
     [difficulty]: "your_difficulty_level (e.g., easy, medium, hard)", [task]: "Generate a [difficulty] level Sudoku puzzle", [requirements]: "Ensure a solvable puzzle with a unique solution."
 
-🏫 Education
+## 🏫 Education
 
-Homework Helper
+**MHomework Helper**M
 
     [subject]: "your_subject (e.g., math, history)", [task]: "Assist with a homework problem in [subject]", [requirements]: "Provide step-by-step solutions and explanations."
 
-🏥 Health and Wellness
+## 🏥 Health and Wellness
 
-Nutrition Advice
+**MNutrition Advice**M
 
     [goal]: "your_nutrition_goal (e.g., weight loss, muscle gain)", [task]: "Recommend a nutrition plan to achieve [goal]", [requirements]: "Include meal ideas and dietary guidelines."
 
-📈 Finance
+## 📈 Finance
 
-Budget Planner
+**MBudget Planner**M
 
     [goal]: "your_budgeting_goal (e.g., saving for a vacation)", [task]: "Help me create a budget plan for [goal]", [requirements]: "Include income, expenses, and savings projections."
 
-✈️ Travel
+## ✈️ Travel
 
-Flight Booking Assistance
+**MFlight Booking Assistance**M
 
     [destination]: "your_travel_destination", [task]: "Find the best flight deals to [destination]", [requirements]: "Include departure dates, airlines, and prices."
 
-🧘‍♂️ Fitness
+## 🧘‍♂️ Fitness
 
-Yoga Instructor
+**MYoga Instructor**M
 
     [level]: "your_yoga_level (e.g., beginner, advanced)", [task]: "Guide me through a [level] yoga session", [requirements]: "Provide poses and breathing instructions."
 
-📦 Shopping
+## 📦 Shopping
 
-Product Reviews
+**MProduct Reviews**M
 
     [product_type]: "your_product_type (e.g., laptops, headphones)", [task]: "Provide reviews for the top [product_type] in 2023", [requirements]: "Include pros, cons, and user ratings."
