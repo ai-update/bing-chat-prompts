@@ -225,14 +225,15 @@ Prompts by:
 ## 🌐 Internet:
 
     [interest]: "your_interest", [task]: "Suggest top websites for [interest]", [requirements]: "Include website names and brief descriptions."
-   
+
     [platform]: "your_social_media_platform", [task]: "Provide analytics for my [platform] account", [requirements]: "Include engagement metrics and audience insights."
+
     [niche]: "your_niche (e.g., travel, technology)", [task]: "Suggest blog post ideas for [niche]", [requirements]: "Include catchy titles and potential content topics."
 
 ## 📰 News and Updates:
 
     [topic]: "your_topic", [task]: "Provide a summary of the latest news in [topic]", [requirements]: "Include key headlines and developments."
-   
+
     [location]: "your_location", [task]: "Provide a weather forecast for [location] for the next 5 days", [requirements]: "Include temperature, precipitation, and wind information."
 
 ## 📅 Events and Activities:
@@ -242,7 +243,7 @@ Prompts by:
 ## 🌍 Travel:
 
     [destination]: "your_destination", [task]: "Help me book a hotel in [destination] for [dates]", [requirements]: "Include options, prices, and guest ratings."
-   
+
     [destination]: "your_destination", [task]: "Give me visa requirements and application steps for visiting [destination]", [requirements]: "Include processing times and fees."
 
 ## 🎬 Entertainment:
@@ -256,13 +257,13 @@ Prompts by:
 ## 📚 Research:
 
     [topic]: "your_topic", [task]: "Find and summarize the most recent research papers on [topic]", [requirements]: "Include key findings and publication dates."
- 
+
     [topic]: "your_topic", [task]: "Find academic papers and articles related to [topic]", [requirements]: "Include publication sources and summaries."
 
 ## 🏠 Real Estate:
 
     [location]: "your_location", [task]: "Search for available properties in [location]", [requirements]: "Include property types, prices, and contact details."
- 
+
     [location]: "your_location", [task]: "Give me information about [neighborhood]", [requirements]: "Include safety, schools, and amenities."
 
 ## 🚆 Transportation:
@@ -272,7 +273,7 @@ Prompts by:
 ## 💡 Technology:
 
     [product]: "your_product", [task]: "Find and summarize reviews for [product]", [requirements]: "Include pros, cons, and overall ratings."
-  
+
     [issue]: "your_tech_issue", [task]: "Help me troubleshoot and resolve [issue]", [requirements]: "Provide step-by-step instructions and potential fixes."
 
 ## 🎶 Music:
