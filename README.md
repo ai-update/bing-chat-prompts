@@ -25,8 +25,10 @@ Prompts by:
 - 🏠 Home Improvement
 - 🏠 Real Estate
 - 🌐 Internet
+- 🏫 Education
 - 🎬 Entertainment
 - 📅 Events and Activities
+- 🌊 Environmental Conservation
 - 📚 Literature
 - 📚 Research
 - 🧘‍♀️ Mindfulness and Well-being
@@ -36,8 +38,6 @@ Prompts by:
 - 🐾 Pets
 - 📸 Photography
 - 🧩 Puzzles and Games
-- 🏫 Education
-- 🌊 Environmental Conservation
 - ✈️ Travel
 - 🚆 Transportation
 - 💡 Technology
