@@ -10,46 +10,39 @@ Prompts by:
 
 ## Table of Contents
 
-- DIY Template
-- 🏋️‍♂️ Fitness
-- 🎬 Entertainment
-- 🍔 Food & Cooking
-- 📚 Literature
-- 🌍 Travel
-- 💼 Career
-- 🌱 Gardening
-- 🎨 Art & Creativity
-- 🏠 Home Improvement
-- 🐾 Pets
 - 🚗 Automotive
-- 🌊 Environmental Conservation
-- 🧘‍♀️ Mindfulness and Well-being
-- 📸 Photography
-- 💡 Technology
-- 🎶 Music
-- 🏞️ Outdoor Activities
-- 🧩 Puzzles and Games
-- 🏫 Education
-- 🏥 Health and Wellness
-- 📈 Finance
-- ✈️ Travel
-- 🧘‍♂️ Fitness
-- 📦 Shopping
-- 🌐 Internet
-- 📰 News and Updates
-- 📅 Events and Activities
-- 🌍 Travel
-- 🎬 Entertainment
+- 🎨 Art & Creativity
 - 🛒 Shopping
-- 📚 Research
+- 💼 Business
+- 💼 Career
+- 📈 Finance
+- 🍔 Food & Cooking
+- 🍽️ Food and Dining
+- 🏋️‍♂️ Fitness
+- 🧘‍♂️ Fitness
+- 🌱 Gardening
+- 🏥 Health and Wellness
+- 🏠 Home Improvement
 - 🏠 Real Estate
+- 🌐 Internet
+- 🎬 Entertainment
+- 📅 Events and Activities
+- 📚 Literature
+- 📚 Research
+- 🧘‍♀️ Mindfulness and Well-being
+- 🎶 Music
+- 📰 News and Updates
+- 🏞️ Outdoor Activities
+- 🐾 Pets
+- 📸 Photography
+- 🧩 Puzzles and Games
+- 💻 Education
+- 🏫 Education
+- 🌊 Environmental Conservation
+- ✈️ Travel
+- 🌍 Travel
 - 🚆 Transportation
 - 💡 Technology
-- 🎶 Music
-- 🍽️ Food and Dining
-- 💼 Business
-- 🚗 Automotive
-- 💻 Education
 
 ## DIY Template
 
