@@ -222,3 +222,70 @@ Prompts by:
 **Product Reviews**
 
     [product_type]: "your_product_type (e.g., laptops, headphones)", [task]: "Provide reviews for the top [product_type] in 2023", [requirements]: "Include pros, cons, and user ratings."
+
+## 🌐 Internet:
+
+    [interest]: "your_interest", [task]: "Suggest top websites for [interest]", [requirements]: "Include website names and brief descriptions."
+    [platform]: "your_social_media_platform", [task]: "Provide analytics for my [platform] account", [requirements]: "Include engagement metrics and audience insights."
+    [niche]: "your_niche (e.g., travel, technology)", [task]: "Suggest blog post ideas for [niche]", [requirements]: "Include catchy titles and potential content topics."
+
+## 📰 News and Updates:
+
+    [topic]: "your_topic", [task]: "Provide a summary of the latest news in [topic]", [requirements]: "Include key headlines and developments."
+    [location]: "your_location", [task]: "Provide a weather forecast for [location] for the next 5 days", [requirements]: "Include temperature, precipitation, and wind information."
+
+## 📅 Events and Activities:
+
+    [city]: "your_city", [task]: "Find upcoming events in [city]", [requirements]: "Include event details, dates, and venues."
+
+## 🌍 Travel:
+
+    [destination]: "your_destination", [task]: "Help me book a hotel in [destination] for [dates]", [requirements]: "Include options, prices, and guest ratings."
+    [destination]: "your_destination", [task]: "Give me visa requirements and application steps for visiting [destination]", [requirements]: "Include processing times and fees."
+
+## 🎬 Entertainment:
+
+    [genre]: "your_preferred_genre", [task]: "Recommend the latest movies or TV shows in the [genre] genre", [requirements]: "Include streaming platforms and availability."
+
+## 🛒 Shopping:
+
+    [product]: "your_product", [task]: "Find the best deals for [product] online", [requirements]: "Include prices, sellers, and customer reviews."
+
+## 📚 Research:
+
+    [topic]: "your_topic", [task]: "Find and summarize the most recent research papers on [topic]", [requirements]: "Include key findings and publication dates."
+    [topic]: "your_topic", [task]: "Find academic papers and articles related to [topic]", [requirements]: "Include publication sources and summaries."
+
+## 🏠 Real Estate:
+
+    [location]: "your_location", [task]: "Search for available properties in [location]", [requirements]: "Include property types, prices, and contact details."
+    [location]: "your_location", [task]: "Give me information about [neighborhood]", [requirements]: "Include safety, schools, and amenities."
+
+## 🚆 Transportation:
+
+    [city]: "your_city", [task]: "Provide public transportation schedules and routes in [city]", [requirements]: "Include bus, subway, and train information."
+
+## 💡 Technology:
+
+    [product]: "your_product", [task]: "Find and summarize reviews for [product]", [requirements]: "Include pros, cons, and overall ratings."
+    [issue]: "your_tech_issue", [task]: "Help me troubleshoot and resolve [issue]", [requirements]: "Provide step-by-step instructions and potential fixes."
+
+## 🎶 Music:
+
+    [artist]: "your_artist", [task]: "Help me find and purchase concert tickets for [artist]", [requirements]: "Include ticket prices and availability."
+
+## 🍽️ Food and Dining:
+
+    [cuisine]: "your_cuisine", [task]: "Make a reservation at a [cuisine] restaurant for [number] people", [requirements]: "Include date, time, and special requests."
+
+## 💼 Business:
+
+    [competitor]: "your_competitor", [task]: "Provide a detailed analysis of [competitor]", [requirements]: "Include strengths, weaknesses, and market share."
+
+## 🚗 Automotive:
+
+    [make_model]: "your_make_model", [task]: "Check the current price of [make_model]", [requirements]: "Include new and used prices."
+
+## 💻 Education:
+
+    [subject]: "your_subject", [task]: "Recommend online courses in [subject]", [requirements]: "Include course names and providers."
