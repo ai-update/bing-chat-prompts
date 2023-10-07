@@ -1,8 +1,8 @@
-# 🤖 Bing Chat Prompts
+# Bing Chat Prompts
 
-ℹ️ A collection of prompts for [Bing Chat](https://bing.com/chat).
+A collection of prompts for [Bing Chat](https://bing.com/chat).
 
-®️ Made by: [Cas van Vliet](https://casvanvliet.substack.com).
+Made by: [Cas van Vliet](https://casvanvliet.substack.com).
 
 ## Table of Contents
 
@@ -34,9 +34,20 @@
 - [🚆 Transportation](#transportation)
 - [💡 Technology](#technology)
 
-## DIY Template
+### DIY Template
 
     [topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
+
+### Instructions
+
+🤖 Using Bing Chat Prompts
+
+1. _**Choose a category** that matches your task, like DIY, email writing, or coding._
+
+2. _**Replace the 'placeholders'** in the prompts with your specific details._
+
+3. _**Copy and Paste the prompt** into ChatGPT and hit ENTER._
+
 
 # Prompts:
 ## Automotive
