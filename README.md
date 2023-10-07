@@ -177,7 +177,7 @@
 
     [location]: "your_location", [task]: "Provide a weather forecast for [location] for the next 5 days", [requirements]: "Include temperature, precipitation, and wind information."
 
-## 🌍 Travel
+## Travel
 
 🌍 **Flight Booking Assistance**
 
