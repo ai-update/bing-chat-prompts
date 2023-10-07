@@ -1,46 +1,46 @@
 # 🤖 Bing Chat Prompts
 
-A collection of prompts for Bing Chat: 
+ℹ️ A collection of prompts for Bing Chat: 
 
 🌐 https://bing.com/chat
 
-Prompts by: 
+©️ Prompts made by: 
 
 🌐 https://casvanvliet.substack.com
 
 ## Table of Contents
 
 - [🚗 Automotive](#automotive)
-- 🎨 Art & Creativity
-- 🛒 Shopping
-- 💼 Business
-- 💼 Career
-- 📈 Finance
-- 🍔 Food & Cooking
-- 🍽️ Food and Dining
-- 🏋️‍♂️ Fitness
-- 🧘‍♂️ Fitness
-- 🌱 Gardening
-- 🏥 Health and Wellness
-- 🏠 Home Improvement
-- 🏠 Real Estate
-- 🌐 Internet
-- 🏫 Education
-- 🎬 Entertainment
-- 📅 Events and Activities
-- 🌊 Environmental Conservation
-- 📚 Literature
-- 📚 Research
-- 🧘‍♀️ Mindfulness and Well-being
-- 🎶 Music
-- 📰 News and Updates
-- 🏞️ Outdoor Activities
-- 🐾 Pets
-- 📸 Photography
-- 🧩 Puzzles and Games
-- ✈️ Travel
-- 🚆 Transportation
-- 💡 Technology
+- [🎨 Art & Creativity](#art-creativity)
+- [🛒 Shopping](#shopping)
+- [💼 Business](#business)
+- [💼 Career](#career)
+- [📈 Finance](#finance)
+- [🍔 Food & Cooking](#food-cooking)
+- [🍽️ Food and Dining](#food-and-dining)
+- [🏋️‍♂️ Fitness](#fitness)
+- [🧘‍♂️ Fitness](#yoga-instructor)
+- [🌱 Gardening](#gardening)
+- [🏥 Health and Wellness](#health-and-wellness)
+- [🏠 Home Improvement](#home-improvement)
+- [🏠 Real Estate](#real-estate)
+- [🌐 Internet](#internet)
+- [🏫 Education](#education)
+- [🎬 Entertainment](#entertainment)
+- [📅 Events and Activities](#events-and-activities)
+- [🌊 Environmental Conservation](#environmental-conservation)
+- [📚 Literature](#literature)
+- [📚 Research](#research)
+- [🧘‍♀️ Mindfulness and Well-being](#mindfulness-and-well-being)
+- [🎶 Music](#music)
+- [📰 News and Updates](#news-and-updates)
+- [🏞️ Outdoor Activities](#outdoor-activities)
+- [🐾 Pets](#pets)
+- [📸 Photography](#photography)
+- [🧩 Puzzles and Games](#puzzles-and-games)
+- [✈️ Travel](#travel)
+- [🚆 Transportation](#transportation)
+- [💡 Technology](#technology)
 
 ## DIY Template
 
