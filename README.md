@@ -17,11 +17,8 @@
 - [💼 Career](#career)
 - [📈 Finance](#finance)
 - [🍔 Food & Cooking](#food-cooking)
-- [🍽️ Food and Dining](#food-and-dining)
 - [🏋️‍♂️ Fitness](#fitness)
-- [🧘‍♂️ Fitness](#yoga-instructor)
 - [🌱 Gardening](#gardening)
-- [🏥 Health and Wellness](#health-and-wellness)
 - [🏠 Home Improvement](#home-improvement)
 - [🏠 Real Estate](#real-estate)
 - [🌐 Internet](#internet)
@@ -103,23 +100,19 @@
 
     [goal]: "your_fitness_goal", [task]: "Design a personalized workout routine to achieve [goal]", [requirements]: "Include exercises, sets, reps, and rest intervals suitable for the individual's fitness level and equipment availability."
 
-## 🏋️‍♂️ Fitness
-
 **Yoga Instructor**
 
     [level]: "your_yoga_level (e.g., beginner, advanced)", [task]: "Guide me through a [level] yoga session", [requirements]: "Provide poses and breathing instructions."
+
+**Nutrition Advice**
+
+    [goal]: "your_nutrition_goal (e.g., weight loss, muscle gain)", [task]: "Recommend a nutrition plan to achieve [goal]", [requirements]: "Include meal ideas and dietary guidelines."
 
 ## 🌱 Gardening
 
 **Plant Care Advisor**
 
     [plant_type]: "your_plant_type", [task]: "Provide care instructions for [plant_type]", [requirements]: "Include watering schedule, sunlight needs, and common issues."
-
-## 🏥 Health and Wellness
-
-**Nutrition Advice**
-
-    [goal]: "your_nutrition_goal (e.g., weight loss, muscle gain)", [task]: "Recommend a nutrition plan to achieve [goal]", [requirements]: "Include meal ideas and dietary guidelines."
 
 ## 🏠 Home Improvement
 
