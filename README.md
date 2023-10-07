@@ -14,7 +14,6 @@
 - [🎨 Art & Creativity](#art-creativity)
 - [🛒 Shopping](#shopping)
 - [💼 Business](#business)
-- [💼 Career](#career)
 - [📈 Finance](#finance)
 - [🍔 Food & Cooking](#food-cooking)
 - [🏋️‍♂️ Fitness](#fitness)
@@ -75,8 +74,6 @@
 **Competitor Analysis**
 
     [competitor]: "your_competitor", [task]: "Provide a detailed analysis of [competitor]", [requirements]: "Include strengths, weaknesses, and market share."
-
-## 💼 Career
 
 **Resume Builder**
 
