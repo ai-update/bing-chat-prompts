@@ -1,10 +1,8 @@
 # 🤖 Bing Chat Prompts
 
-ℹ️ A collection of prompts for Bing Chat: 
+ℹ️ A collection of prompts for [Bing Chat](https://bing.com/chat).
 
-🌐 https://bing.com/chat
-
-®️ Prompts made by: [Cas van Vliet](https://casvanvliet.substack.com)
+®️ Prompts made by: [Cas van Vliet](https://casvanvliet.substack.com).
 
 ## Table of Contents
 
