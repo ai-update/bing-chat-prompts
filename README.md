@@ -7,11 +7,11 @@
 ## Table of Contents
 
 - [🚗 Automotive](#automotive)
-- [🎨 Art & Creativity](#art-creativity)
+- [🎨 Creativity](#creativity)
 - [🛒 Shopping](#shopping)
 - [💼 Business](#business)
 - [📈 Finance](#finance)
-- [🍔 Food & Cooking](#food-cooking)
+- [🍔 Cooking](#cooking)
 - [🏋️‍♂️ Fitness](#fitness)
 - [🌱 Gardening](#gardening)
 - [🏠 Home Improvement](#home-improvement)
@@ -49,7 +49,7 @@
 
     [make_model]: "your_make_model", [task]: "Check the current price of [make_model]", [requirements]: "Include new and used prices."
 
-## Art & Creativity
+## Creativity
 
 🎨 **Art Project Ideas**
 
@@ -81,7 +81,7 @@
 
     [goal]: "your_budgeting_goal (e.g., saving for a vacation)", [task]: "Help me create a budget plan for [goal]", [requirements]: "Include income, expenses, and savings projections."
 
-## Food & Cooking
+## Cooking
 
 🍔 **Recipe Finder**
 
