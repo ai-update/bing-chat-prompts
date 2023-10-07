@@ -45,11 +45,11 @@
 # Prompts:
 ## [Automotive](#automotive)
 
-**Car Maintenance Guide**
+🚗 **Car Maintenance Guide**
 
     [car_brand]: "your_car_brand", [task]: "Provide a car maintenance guide for [car_brand]", [requirements]: "Include routine checks and DIY maintenance tips."
 
-**Car Price Check**
+🚗 **Car Price Check**
 
     [make_model]: "your_make_model", [task]: "Check the current price of [make_model]", [requirements]: "Include new and used prices."
 
@@ -59,29 +59,29 @@
 
     [medium]: "your_preferred_medium", [task]: "Suggest creative art projects using [medium]", [requirements]: "Include step-by-step instructions and required materials."
 
-## [Shopping](#shopping)
+## Shopping(#shopping)
 
-**Online Shopping Assistant**
+🛒 **Online Shopping Assistant**
 
     [product]: "your_product", [task]: "Find the best deals for [product] online", [requirements]: "Include prices, sellers, and customer reviews."
 
-**Product Reviews**
+🛒 **Product Reviews**
 
     [product_type]: "your_product_type (e.g., laptops, headphones)", [task]: "Provide reviews for the top [product_type] in 2023", [requirements]: "Include pros, cons, and user ratings."
 
 ## Business
 
-**Competitor Analysis**
+💼 **Competitor Analysis**
 
     [competitor]: "your_competitor", [task]: "Provide a detailed analysis of [competitor]", [requirements]: "Include strengths, weaknesses, and market share."
 
-**Resume Builder**
+💼 **Resume Builder**
 
     [profession]: "your_profession", [task]: "Help me create a professional resume for a [profession]", [requirements]: "Include relevant skills, work experience, and a compelling summary."
 
 ## Finance
 
-**Budget Planner**
+📈 **Budget Planner**
 
     [goal]: "your_budgeting_goal (e.g., saving for a vacation)", [task]: "Help me create a budget plan for [goal]", [requirements]: "Include income, expenses, and savings projections."
 
