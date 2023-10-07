@@ -10,7 +10,7 @@ Prompts by:
 
 ## Table of Contents
 
-- 🚗 Automotive
+- [🚗 Automotive](#automotive)
 - 🎨 Art & Creativity
 - 🛒 Shopping
 - 💼 Business
@@ -47,7 +47,7 @@ Prompts by:
     [topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
 
 # Prompts:
-## 🚗 Automotive
+## [🚗 Automotive](#automotive)
 
 **Car Maintenance Guide**
 
