@@ -40,8 +40,6 @@ Made by: [Cas van Vliet](https://casvanvliet.substack.com).
 
 ### Instructions
 
-🤖 Using Bing Chat Prompts
-
 1. _**Choose a category** that matches your task, like DIY, email writing, or coding._
 
 2. _**Replace the 'placeholders'** in the prompts with your specific details._
