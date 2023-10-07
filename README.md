@@ -59,7 +59,7 @@
 
     [medium]: "your_preferred_medium", [task]: "Suggest creative art projects using [medium]", [requirements]: "Include step-by-step instructions and required materials."
 
-## Shopping
+## [Shopping](#shopping)
 
 **Online Shopping Assistant**
 
