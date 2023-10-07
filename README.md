@@ -53,7 +53,7 @@
 
     [make_model]: "your_make_model", [task]: "Check the current price of [make_model]", [requirements]: "Include new and used prices."
 
-## [Art & Creativity](#art&creativity)
+## [Art & Creativity](#art-creativity)
 
 **Art Project Ideas**
 
@@ -85,13 +85,13 @@
 
     [goal]: "your_budgeting_goal (e.g., saving for a vacation)", [task]: "Help me create a budget plan for [goal]", [requirements]: "Include income, expenses, and savings projections."
 
-## Food & Cooking
+## [Food & Cooking](#food-cooking)
 
 🍔 **Recipe Finder**
 
     [cuisine]: "your_preferred_cuisine", [task]: "Find a delicious recipe for a [cuisine] dish", [requirements]: "Include ingredients, step-by-step instructions, and cooking tips."
 
-## Fitness
+## [Fitness](#fitness)
 
 🏋️‍♂️ **Workout Routine Creator**
 
@@ -105,7 +105,7 @@
 
     [goal]: "your_nutrition_goal (e.g., weight loss, muscle gain)", [task]: "Recommend a nutrition plan to achieve [goal]", [requirements]: "Include meal ideas and dietary guidelines."
 
-## Gardening
+## [Gardening](#gardening)
 
 🌱 **Plant Care Advisor**
 
