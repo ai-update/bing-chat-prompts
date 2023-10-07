@@ -4,9 +4,7 @@
 
 🌐 https://bing.com/chat
 
-®️ Prompts made by: Cas van Vliet
-
-🌐 https://casvanvliet.substack.com
+®️ Prompts made by: [Cas van Vliet](https://casvanvliet.substack.com)
 
 ## Table of Contents
 
