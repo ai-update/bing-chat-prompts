@@ -53,13 +53,13 @@
 
     [make_model]: "your_make_model", [task]: "Check the current price of [make_model]", [requirements]: "Include new and used prices."
 
-## Art & Creativity
+## [Art & Creativity](#art&creativity)
 
 **Art Project Ideas**
 
     [medium]: "your_preferred_medium", [task]: "Suggest creative art projects using [medium]", [requirements]: "Include step-by-step instructions and required materials."
 
-## Shopping(#shopping)
+## [Shopping](#shopping)
 
 🛒 **Online Shopping Assistant**
 
@@ -69,7 +69,7 @@
 
     [product_type]: "your_product_type (e.g., laptops, headphones)", [task]: "Provide reviews for the top [product_type] in 2023", [requirements]: "Include pros, cons, and user ratings."
 
-## Business
+## [Business](#business)
 
 💼 **Competitor Analysis**
 
@@ -79,7 +79,7 @@
 
     [profession]: "your_profession", [task]: "Help me create a professional resume for a [profession]", [requirements]: "Include relevant skills, work experience, and a compelling summary."
 
-## Finance
+## [Finance](Finance)
 
 📈 **Budget Planner**
 
