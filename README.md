@@ -117,7 +117,7 @@
 
     [room]: "your_target_room", [task]: "Offer tips for renovating the [room]", [requirements]: "Include budget-friendly ideas and safety precautions."
 
-## [Real Estate](#realestate)
+## Real Estate
 
 🏠 **Property Search**
 
@@ -127,7 +127,7 @@
 
     [location]: "your_location", [task]: "Give me information about [neighborhood]", [requirements]: "Include safety, schools, and amenities."
 
-## [Internet](#internet)
+## Internet
 
 🌐 **Website Recommendations**
 
