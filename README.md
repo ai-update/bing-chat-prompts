@@ -1,6 +1,6 @@
 # Bing Chat Prompts
 
-A collection of prompts for [Bing Chat](https://bing.com/chat).
+ℹ️ A collection of prompts for [Bing Chat](https://bing.com/chat).
 
 🛠️ Need a custom prompt? [Get in touch](mailto:workcommunication@duck.com).
 
