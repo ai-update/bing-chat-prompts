@@ -2,7 +2,9 @@
 
 A collection of prompts for [Bing Chat](https://bing.com/chat).
 
-Made by: [Cas van Vliet](https://casvanvliet.substack.com).
+🛠️ Need a custom prompt? [Get in touch](mailto:workcommunication@duck.com).
+
+™️ Made by [Cas van Vliet](https://casvanvliet.substack.com).
 
 ## Table of Contents
 
