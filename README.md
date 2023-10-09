@@ -44,7 +44,7 @@
 
 2. _**Replace the 'placeholders'** in the prompts with your specific details._
 
-3. _**Copy and Paste the prompt** into ChatGPT and hit ENTER._
+3. _**Copy and Paste the prompt** into Bing Chat and hit ENTER._
 
 ## More prompts:
 
