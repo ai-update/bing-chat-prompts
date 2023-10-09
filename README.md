@@ -34,7 +34,7 @@
 - [🚆 Transportation](#transportation)
 - [💡 Technology](#technology)
 
-### DIY Template
+## DIY Template
 
     [topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
 
@@ -48,7 +48,7 @@
 
 ## More prompts:
 
-### 🛠️ [Buy a custom prompt](mailto:workcommunication@duck.com).
+### 🛠️ [Buy a custom prompt](mailto:workcommunication@duck.com)
 > 💲 **29.99**
 
 # Prompts:
