@@ -1,10 +1,8 @@
 # Bing Chat Prompts
 
-ℹ️ A collection of prompts for [Bing Chat](https://bing.com/chat).
+ℹ️ A collection of **prompts** for [**Bing Chat**](https://bing.com/chat).
 
-🛠️ Need a custom prompt? [Get in touch](mailto:workcommunication@duck.com).
-
-™️ Made by [Cas van Vliet](https://casvanvliet.substack.com).
+™️ Made by [**Cas van Vliet**](https://casvanvliet.substack.com).
 
 ## Table of Contents
 
@@ -40,7 +38,7 @@
 
     [topic]: "your_topic", [task]: "your_task", [requirements]: "your_requirements_for_task".
 
-### Instructions
+## Instructions
 
 1. _**Choose a category** that matches your task, like DIY, email writing, or coding._
 
@@ -48,6 +46,10 @@
 
 3. _**Copy and Paste the prompt** into ChatGPT and hit ENTER._
 
+## More prompts:
+
+### 🛠️ [Buy a custom prompt](mailto:workcommunication@duck.com).
+> 💲 **29.99**
 
 # Prompts:
 ## Automotive
