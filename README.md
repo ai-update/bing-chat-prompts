@@ -40,9 +40,9 @@
 
 ## Instructions
 
-1. _**Choose a category** that matches your task, like DIY, email writing, or coding._
+1. _**Choose a category** that matches your task._
 
-2. _**Replace the 'placeholders'** in the prompts with your specific details._
+2. _**Replace the 'placeholders'** in the prompts with your details._
 
 3. _**Copy and Paste the prompt** into Bing Chat and hit ENTER._
 
