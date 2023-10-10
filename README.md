@@ -46,7 +46,7 @@
 
 3. _**Copy and Paste the prompt** into Bing Chat and hit ENTER._
 
-## More prompts:
+## More Prompts
 
 ### 🛠️ [Buy a custom prompt](mailto:workcommunication@duck.com)
 > 💲 **29.99**
