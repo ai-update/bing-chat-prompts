@@ -1,8 +1,6 @@
 # Bing Chat Prompts
 
-ℹ️ A collection of **prompts** for [**Bing Chat**](https://bing.com/chat).
-
-™️ Made by [**Cas van Vliet**](https://casvanvliet.substack.com).
+![image](https://github.com/cas-van-vliet/bing-chat-prompts/assets/146363448/502c5fa2-d8da-4965-8cac-2091382c7a39)
 
 ## Table of Contents
 
@@ -51,7 +49,7 @@
 ### 🛠️ [Buy a custom prompt](mailto:workcommunication@duck.com)
 > 💲 **29.99**
 
-## Prompt Collection
+## Prompts for [Bing Chat](https://bing.com/chat)
 
 ### Automotive
 
