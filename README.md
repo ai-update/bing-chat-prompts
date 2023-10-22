@@ -52,9 +52,9 @@ Buy more (custom) prompts in one of my webshops:
 
 ### 🏪 [PromptsIdeas](https://promptsideas.com/profile/promptfast)
 
-### Automotive
-
 ## Free Prompts for Bing Chat:
+
+### Automotive
 
 #### 🚗 **Car Maintenance Guide**
 
