@@ -46,12 +46,15 @@
 
 ## More Prompts
 
-### 🛠️ [Buy a custom prompt](mailto:workcommunication@duck.com)
-> 💲 **29.99**
+Buy more (custom) prompts in one of my webshops:
 
-## Prompts for [Bing Chat](https://bing.com/chat)
+### 🏪 [GumRoad](https://promptfast.gumroad.com)
+
+### 🏪 [PromptsIdeas](https://promptsideas.com/profile/promptfast)
 
 ### Automotive
+
+## Free Prompts for Bing Chat:
 
 #### 🚗 **Car Maintenance Guide**
 
