@@ -1,6 +1,6 @@
 # Bing Chat Prompts
 
-![Screenshot from 2023-10-15 05-00-25](https://github.com/cas-van-vliet/bing-chat-prompts/assets/146363448/286ae5d2-36cf-4f46-848a-60efbf1291f3)
+![image](https://github.com/cas-van-vliet/bing-chat-prompts/assets/146363448/d09678eb-4784-4706-a3d5-01cf01562f7a)
 
 ## Table of Contents
 
