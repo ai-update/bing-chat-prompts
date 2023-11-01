@@ -61,6 +61,8 @@ Buy more (custom) prompts in one of my webshops:
 
     [car_brand]: "your_car_brand", [task]: "Provide a car maintenance guide for [car_brand]", [requirements]: "Include routine checks and DIY maintenance tips."
 
+##### [Example](#Car-Maintenance-Guide)
+
 #### 🚗 **Car Price Check**
 
     [make_model]: "your_make_model", [task]: "Check the current price of [make_model]", [requirements]: "Include new and used prices."
