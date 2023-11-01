@@ -4,33 +4,34 @@
 
 ## Table of Contents
 
-- [🚗 **Automotive**](#automotive)
-- [🎨 **Creativity**](#creativity)
-- [🛒 **Shopping**](#shopping)
-- [💼 **Business**](#business)
-- [📈 **Finance**](#finance)
-- [🍔 **Cooking**](#cooking)
-- [🏋️‍♂️ **Fitness**](#fitness)
-- [🌱 **Gardening**](#gardening)
-- [🏠 **Home Improvement**](#home-improvement)
-- [🏠 **Real Estate**](#real-estate)
-- [🌐 **Internet**](#internet)
-- [🏫 **Education**](#education)
-- [🎬 **Entertainment**](#entertainment)
-- [📅 **Events and Activities**](#events-and-activities)
-- [🌊 **Environmental Conservation**](#environmental-conservation)
-- [📚 **Literature**](#literature)
-- [📚 **Research**](#research)
-- [🧘‍♀️ **Mindfulness and Well-being**](#mindfulness-and-well-being)
-- [🎶 **Music**](#music)
-- [📰 **News and Updates**](#news-and-updates)
-- [🏞️ **Outdoor Activities**](#outdoor-activities)
-- [🐾 **Pets**](#pets)
-- [📸 **Photography**](#photography)
-- [🧩 **Puzzles and Games**](#puzzles-and-games)
-- [✈️ **Travel**](#travel)
-- [🚆 **Transportation**](#transportation)
-- [💡 **Technology**](#technology)
+- 🚗 [**Automotive**](#automotive)
+- 🎨 [**Creativity**](#creativity)
+- 🛒 [**Shopping**](#shopping)
+- 💼 [**Business**](#business)
+- 📈 [**Finance**](#finance)
+- 🍔 [**Cooking**](#cooking)
+- 🏋️‍♂️ [**Fitness**](#fitness)
+- 🌱 [**Gardening**](#gardening)
+- 🏠 [**Home Improvement**](#home-improvement)
+- 🏠 [**Real Estate**](#real-estate)
+- 🌐 [**Internet**](#internet)
+- 🏫 [**Education**](#education)
+- 🎬 [**Entertainment**](#entertainment)
+- 📅 [**Events and Activities**](#events-and-activities)
+- 🌊 [**Environmental Conservation**](#environmental-conservation)
+- 📚 [**Literature**](#literature)
+- 📚 [**Research**](#research)
+- 🧘‍♀️ [**Mindfulness and Well-being**](#mindfulness-and-well-being)
+- 🎶 [**Music**](#music)
+- 📰 [**News and Updates**](#news-and-updates)
+- 🏞️ [**Outdoor Activities**](#outdoor-activities)
+- 🐾 [**Pets**](#pets)
+- 📸 [**Photography**](#photography)
+- 🧩 [**Puzzles and Games**](#puzzles-and-games)
+- ✈️ [**Travel**](#travel)
+- 🚆 [**Transportation**](#transportation)
+- 💡 [**Technology**](#technology)
+- 🎯 [**Examples**](#examples)
 
 ## DIY Template
 
@@ -263,3 +264,12 @@ Buy more (custom) prompts in one of my webshops:
 #### 🏫 **Online Course Recommendations**
 
     [subject]: "your_subject", [task]: "Recommend online courses in [subject]", [requirements]: "Include course names and providers."
+
+## Examples 
+
+🎯 **Car Maintenance Guide**
+
+    [car_brand]: "your_car_brand", [task]: "Provide a car maintenance guide for [car_brand]", [requirements]: "Include routine checks and DIY maintenance tips."
+
+![Screenshot from 2023-11-01 01-44-43](https://github.com/cas-van-vliet/bing-chat-prompts/assets/146363448/38ee1186-22c7-4299-8663-93c36c413ae7)
+
