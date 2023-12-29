@@ -275,12 +275,12 @@ Buy more (custom) prompts in one of my webshops:
 
     [car_brand]: "your_car_brand", [task]: "Provide a car maintenance guide for [car_brand]", [requirements]: "Include routine checks and DIY maintenance tips."
 
-![Screenshot from 2023-11-01 01-44-43](https://github.com/cas-van-vliet/bing-chat-prompts/assets/146363448/38ee1186-22c7-4299-8663-93c36c413ae7)
+![image](https://github.com/ai-update/bing-chat-prompts/assets/146363448/90cd8863-7127-4fac-bd2d-b4a47dedfc50)
 
 🎯 **Shopping Assistant**
 
     [product]: "your_product", [task]: "Find the best deals for [product] online", [requirements]: "Include prices, sellers, and customer reviews."
 
-![image](https://github.com/ai-update/bing-chat-prompts/assets/146363448/974d33e4-6d05-43e6-b389-857a696dcf7e)
+![image](https://github.com/ai-update/bing-chat-prompts/assets/146363448/79c45f40-7dad-4958-8dc1-9ca4088ed6b9)
 
 ![image](https://github.com/cas-van-vliet/bing-chat-prompts/assets/146363448/92182c4d-53a4-4f3d-b75f-1b460fa178a4)
