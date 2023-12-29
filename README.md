@@ -75,7 +75,7 @@ Buy more (custom) prompts in one of my webshops:
 
 ### Shopping
 
-#### 🛒 **Online Shopping Assistant**
+#### 🛒 **Shopping Assistant**
 
     [product]: "your_product", [task]: "Find the best deals for [product] online", [requirements]: "Include prices, sellers, and customer reviews."
 
@@ -276,3 +276,7 @@ Buy more (custom) prompts in one of my webshops:
 ![Screenshot from 2023-11-01 01-44-43](https://github.com/cas-van-vliet/bing-chat-prompts/assets/146363448/38ee1186-22c7-4299-8663-93c36c413ae7)
 
 ![image](https://github.com/cas-van-vliet/bing-chat-prompts/assets/146363448/92182c4d-53a4-4f3d-b75f-1b460fa178a4)
+
+🎯 **Shopping Assistant**
+
+![image](https://github.com/ai-update/bing-chat-prompts/assets/146363448/974d33e4-6d05-43e6-b389-857a696dcf7e)
